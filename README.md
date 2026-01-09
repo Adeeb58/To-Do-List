@@ -80,5 +80,6 @@ CREATE DATABASE todo_db;
 ### Task Dashboard
 ![Dashboard](docs/screenshots/dashboard.png)
 
-## License
-MIT
+## Demo Video
+
+[Watch the working website demo](https://drive.google.com/file/d/1zqw6Hi_PCVhKlyVgVHBPdKk8NXBE2ZIx/view?usp=drive_link)
