@@ -1,0 +1,12 @@
+target/
+!.mvn/wrapper/maven-wrapper.jar
+!**/src/main/**/target/
+*.class
+*.log
+.classpath
+.project
+.settings/
+.sts4-cache/
+bin/
+help.md
+.env
