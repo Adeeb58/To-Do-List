@@ -1,6 +1,6 @@
 # To-Do List Application
 
-A modern, full-stack To-Do List application built with Spring Boot (Backend) and React/Vite (Frontend). Features a premium UI, OAuth2 authentication, and robust task management.
+A modern, full-stack To-Do List application built with Spring Boot (Backend) and React/Vite (Frontend). Features a simple UI, OAuth2 authentication, and robust task management.
 
 ![Dashboard Preview](docs/screenshots/dashboard.png)
 
@@ -10,7 +10,7 @@ A modern, full-stack To-Do List application built with Spring Boot (Backend) and
 *   **Task Management**: Create, Read, Update, Delete tasks.
 *   **Categories**: Inbox, Today, Upcoming views.
 *   **Filtering**: Sort by priority, status, or date.
-*   **Modern UI**: Responsive design with Material UI, transitions, and "premium" aesthetics.
+*   **Modern UI**: Responsive design with Material UI, transitions, and "simple" aesthetics.
 *   **Database**: Persistent MySQL storage with Flyway migrations.
 
 ## Tech Stack
