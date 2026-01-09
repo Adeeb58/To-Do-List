@@ -10,7 +10,7 @@ A modern, full-stack To-Do List application built with Spring Boot (Backend) and
 *   **Task Management**: Create, Read, Update, Delete tasks.
 *   **Categories**: Inbox, Today, Upcoming views.
 *   **Filtering**: Sort by priority, status, or date.
-*   **Modern UI**: Responsive design with Material UI, transitions, and "simple" aesthetics.
+*   **Modern UI**: Responsive design with Material UI.
 *   **Database**: Persistent MySQL storage with Flyway migrations.
 
 ## Tech Stack
